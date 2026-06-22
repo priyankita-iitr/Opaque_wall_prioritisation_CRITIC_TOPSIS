@@ -90,7 +90,7 @@ If you use this code, please cite:
 
 > Pant, P. et al. (202X). Prioritising Passive Envelope Design Features for Opaque Walls: A CRITIC-TOPSIS Approach. *Journal Name*. DOI: xxx
 
-Code repository DOI: [Zenodo DOI here once registered]
+Code repository DOI: 10.5281/zenodo.20796558
 
 ---
 
