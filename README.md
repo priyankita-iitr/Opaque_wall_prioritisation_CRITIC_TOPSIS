@@ -58,7 +58,6 @@ This repository contains the Python code used to prioritise Passive Envelope Des
 ---
 
 ## How to run
-
 ### Local (Jupyter Notebook)
 1. Clone this repository:
 ```bash
