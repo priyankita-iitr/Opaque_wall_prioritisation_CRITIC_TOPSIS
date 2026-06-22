@@ -1,10 +1,6 @@
 # Opaque_wall_prioritisation_CRITIC_TOPSIS
 
-This repository contains the Python code used to prioritise Passive Envelope 
-Design Features (PEDFs) for opaque walls using the CRITIC (weighting) and 
-TOPSIS (ranking) multi-criteria decision-making methods. This is the analytical 
-component of Paper 2 in a series on identifying and prioritising PEDFs for 
-energy-efficient building design in hot climates.
+This repository contains the Python code used to prioritise Passive Envelope Design Features (PEDFs) for opaque walls using the CRITIC (weighting) and TOPSIS (ranking) multi-criteria decision-making methods. This is the analytical component of a  research on identifying and prioritising PEDFs for energy-efficient building design in the Indian climate.
 
 ---
 
@@ -63,13 +59,7 @@ energy-efficient building design in hot climates.
 
 ## How to run
 
-### Option 1 — Google Colab (recommended)
-1. Click the **Open in Colab** badge above
-2. Upload `Survey1.xlsx` and `Survey2.xlsx` to the Colab session:
-   - In the left panel click the folder icon → upload files
-3. Run all cells in order (Runtime → Run all)
-
-### Option 2 — Local (Jupyter Notebook)
+### Local (Jupyter Notebook)
 1. Clone this repository:
 ```bash
    git clone https://github.com/your-username/PEDF-prioritisation-CRITIC-TOPSIS.git
@@ -99,8 +89,7 @@ energy-efficient building design in hot climates.
 
 If you use this code, please cite:
 
-> Pant, P. et al. (202X). Prioritising Passive Envelope Design Features for 
-> Opaque Walls: A CRITIC-TOPSIS Approach. *Journal Name*. DOI: xxx
+> Pant, P. et al. (202X). Prioritising Passive Envelope Design Features for Opaque Walls: A CRITIC-TOPSIS Approach. *Journal Name*. DOI: xxx
 
 Code repository DOI: [Zenodo DOI here once registered]
 
@@ -114,4 +103,4 @@ MIT License — free to use and adapt with attribution.
 
 ## Contact
 
-For questions about the methodology or data, contact: [your email here]
+For questions about the methodology or data, contact: priyankita_p@ar.iitr.ac.in
