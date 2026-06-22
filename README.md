@@ -41,6 +41,8 @@ This repository contains the Python code used to prioritise Passive Envelope Des
 **Survey2.xlsx column structure:**
 - Columns 5–15: C4 Expert energy performance scores (Likert scale)
 
+> Note: Survey data has been anonymised prior to publication. 
+> Personally identifiable information (timestamp, name, mobile number, email address) has been removed from both data files.
 ---
 
 ## Outputs
